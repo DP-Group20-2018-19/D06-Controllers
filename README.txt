@@ -1,0 +1,1 @@
+In the responsibility statements document we provided two links instead of just one because we were using Projetsii and recently it had some problems which made it harder to update/commit changes and we wanted to make sure it wouldn't affect us. This is also the reason why the github repository could have few commits compared to Projetsii.
